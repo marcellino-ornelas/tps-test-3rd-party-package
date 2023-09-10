@@ -2,7 +2,7 @@
   "name": "tps-test-3rd-party-package",
   "version": "1.0.0",
   "description": "Repository to test templates 3rd party template functionality",
-  "main": "index.js",
+  "main": "settings.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
